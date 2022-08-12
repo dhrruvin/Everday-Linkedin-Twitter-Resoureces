@@ -1,0 +1,7 @@
+Today i learn about IOS Dynamic Pentesting 
+
+IOS Pentesting (Youtube videos):https://www.youtube.com/watch?v=peceuSjYyH8&list=PL5Fxd3nu70eyqiqrVlD9QMoaOARr082TA&ab_channel=Mantis
+
+https://ios.pentestglobal.com/
+https://bhattsameer.github.io/2021/06/23/Intercepting-flutter-iOS-application.html
+
