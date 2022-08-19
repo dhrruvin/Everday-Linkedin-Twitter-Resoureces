@@ -1,0 +1,4 @@
+1.Proto type Pollution 
+  https://infosecwriteups.com/hunting-for-prototype-pollution-and-its-vulnerable-code-on-js-libraries-5bab2d6dc746
+  https://github.com/kleiton0x00/ppmap
+2.
